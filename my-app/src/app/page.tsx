@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import Hero from "@/components/Hero"
 import Skills from "@/components/Skills";
 import Contact from "@/components/Contact";
